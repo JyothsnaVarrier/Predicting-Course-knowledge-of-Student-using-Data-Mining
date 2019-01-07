@@ -17,6 +17,7 @@ There are six major categories of cognitive an processes, starting from the simp
     Analysis
     Synthesis
     Evaluation
-    
+ 
+ Based on the Evaluating Continous Internal Test, The marks of student in each question is recorded and Skill that the student has is identified. Also, Using machine learning techniques, prediction regard student performance is carried out.
 
 
