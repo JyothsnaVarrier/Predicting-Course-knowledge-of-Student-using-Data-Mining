@@ -6,3 +6,17 @@ analysis. For this analysis,python and R programming tools are used. This helps 
 in courses.
 
 The Dataset used is Bloom's Taxonomy Cognitive Levels Data Set Available from Anwar Ali Yahya.
+
+Bloom's Taxonomy was created in 1956 under the leadership of educational psychologist Dr Benjamin Bloom in order to promote higher forms of thinking in education, such as analyzing and evaluating concepts, processes, procedures, and principles, rather than just remembering facts (rote learning). It is most often used when designing educational, training, and learning processes.
+
+There are six major categories of cognitive an processes, starting from the simplest to the most complex:
+
+    Knowledge
+    Comprehension
+    Application
+    Analysis
+    Synthesis
+    Evaluation
+    
+
+
